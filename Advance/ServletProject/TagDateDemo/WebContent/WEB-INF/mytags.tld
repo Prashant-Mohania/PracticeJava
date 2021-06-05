@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib> 
+  <tlibversion>2.0</tlibversion>
+  <jspversion>2.0</jspversion>
+ <short-name>My Custom Tag</short-name>
+    <uri>http://dd.com</uri>
+    <tag>
+    <name>today</name>
+    <tag-class>com.infomatics.MyTagHandler</tag-class>
+    <info>Displays the user information</info>
+  </tag>
+</taglib>
